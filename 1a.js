@@ -1,0 +1,1 @@
+alert("Hellooooooooo from JS !");
